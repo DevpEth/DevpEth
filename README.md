@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dev Patel</h1>
 <h3 align="center">Passionate Computer Science Student at NJIT. I enjoy building real world applications that other and I can use to make life easier and more efficient. Please reach out if you want to work on a project, I'm always open to new ideas and collaboration.</h3>
 
-- 🔭 I’m currently working on **AI Life Optimizer**
+- 🔭 I’m currently working on **Machine Learning Model to Predict Student Preformance**
 
-- 🌱 I’m currently learning **React and C**
+- 🌱 I’m currently using **Python and C**
 
 - 📫 How to reach me **dp862@njit.edu**
 
